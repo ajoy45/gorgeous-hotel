@@ -1,0 +1,7 @@
+[
+    {"id":1,"name":"single Room","description":"A single room, also known as a standard room, when referring to hotel rooms, is a room that is only guaranteed and/or permitted to accommodate one guest. A ...","img":"https://i.ibb.co/jyj6nTn/slider3.png"},
+
+    {"id":2,"name":"double Room","description":"A standard hotel Double Room is an elongated hotel room designed for two people, though some standard doubles can accommodate up to four.","img":"https://i.ibb.co/N7W5vM1/slider3-2.png"},
+
+    {"id":3,"name":"conference Room","description":"A conference room is a large room in a hotel where a number of people can have a conference. The conference room has eight seats and two tables. There are three conference rooms, each of which is equipped with a large screen for business presentations.","img":"https://i.ibb.co/JzkYQHk/room-business-meeting.jpg"}
+]
